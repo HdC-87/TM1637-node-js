@@ -11,5 +11,7 @@ You have several examples to use this class :
 
 Example:
 the command line 
-    sudo node decNumbers.js  
+
+sudo node decimalNumber.js  
+
 will show you some possibilities.
