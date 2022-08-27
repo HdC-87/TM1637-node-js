@@ -4,8 +4,8 @@ Because wiringPi is no longer available, I have decided to define a new class us
 So, before using this class, it is necessary to install pigpio.
 https://www.npmjs.com/package/pi-gpio
 
-You have several examples of use for this class :
-- display a decimal number
+You have several examples to use this class :
+- display a decimal number 
 - display hex number
 - display and scroll text (some letters are not available)
 
