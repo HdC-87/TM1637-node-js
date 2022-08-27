@@ -10,6 +10,6 @@ display and scroll text (some letters are not available)
 
 Example: the command line
 
-sudo node decimalNumbers.js
+sudo node decimalNumber.js
 
 will show you some possibilities.
