@@ -9,5 +9,7 @@ display hex number
 display and scroll text (some letters are not available)
 
 Example: the command line
+
 sudo node decimalNumbers.js
+
 will show you some possibilities.
