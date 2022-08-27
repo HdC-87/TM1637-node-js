@@ -8,6 +8,8 @@ display a decimal number
 display hex number
 display and scroll text (some letters are not available)
 
-Example: the command line 
-   sudo node decNumbers.js
+Example: the command line
+
+sudo node decNumbers.js
+
 will show you some possibilities.
